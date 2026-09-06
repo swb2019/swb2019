@@ -1,41 +1,48 @@
-<a href="https://swb2019.github.io/shannon-brown-career/"><img src="assets/profile-banner.webp" alt="Shannon Brown — Security leadership, risk, and systems" width="100%" /></a>
+<a href="https://swb2019.github.io/shannon-brown-career/"><img src="assets/profile-banner.webp" alt="Shannon Brown — Security operations & risk leadership" width="100%" /></a>
 
 <p align="center">
-  <a href="https://swb2019.github.io/shannon-brown-career/"><strong>Professional portfolio ↗</strong></a> &nbsp; · &nbsp;
-  <a href="https://swb2019.github.io/gsoc-decision-ops/">Try Hourglass Command</a> &nbsp; · &nbsp;
+  <a href="https://swb2019.github.io/shannon-brown-career/"><strong>Explore the work ↗</strong></a> &nbsp; · &nbsp;
+  <a href="https://swb2019.github.io/shannon-brown-career/notes/">Read the perspective</a> &nbsp; · &nbsp;
   <a href="https://www.linkedin.com/in/shannon-w-brown">LinkedIn</a>
 </p>
 
-## Clear judgment. Accountable operations. Useful systems.
+## Clear judgment. When the stakes are real.
 
-I’m Shannon Brown, a security operations and risk-management leader in Massachusetts. I direct a **24-member, 24/7 global security operations center** for a Fortune 500 pharmaceutical client through Allied Universal. My work connects operational governance, incident coordination, commercial judgment, and executive communication.
+I lead security operations and build practical tools for making better decisions across physical, cyber, and business risk.
 
-I build tools that make complex decisions easier to understand, practice, and explain.
+**Professional experience:** GSOC Manager through Allied Universal, leading a **24-member, 24/7 Global Security Operations Center** for a Fortune 500 pharmaceutical client. My responsibilities include supervisor coaching, operating standards, incident coordination, escalation, and executive communication. I became Manager in **November 2025**, following Analyst and Supervisor roles earlier that year.
 
-| Operational leadership                                                                                    | Commercial judgment                                                                                                   | Technical foundation                                                                                          |
-| :-------------------------------------------------------------------------------------------------------- | :-------------------------------------------------------------------------------------------------------------------- | :------------------------------------------------------------------------------------------------------------ |
-| Promoted from GSOC Analyst to Manager in ten months. Lead supervisors, analysts, and technical personnel. | Delivered **$7 million in annual savings** through primary-supplier negotiation at Phoenix Far East Investment Group. | Harvard **ALM, Information Management Systems** and **ALB, Business Administration & Management, cum laude**. |
+My earlier work spans commercial risk, international investment analysis, and regulated financial services. At Phoenix Far East Investment Group, I negotiated **$7 million in annual primary-supplier savings**—a historical commercial result from that role.
 
-## Selected work
+**Education:** Harvard Master of Liberal Arts in Information Management Systems (2022); Bachelor of Liberal Arts in Business Administration & Management, *cum laude* (2021); Cybersecurity Graduate Certificate. CompTIA CySA+ ce and Security+ ce, awarded 2025.
 
-### [Hourglass Command ↗](https://swb2019.github.io/gsoc-decision-ops/)
+[Full professional chronology and résumé](https://swb2019.github.io/shannon-brown-career/about/)
 
-**First-hour judgment under incomplete information.** A working GSOC decision-training simulation with a six-chapter campaign, converging physical and cyber signals, explicit operating postures, and exportable after-action reviews.
+## Work you can inspect
 
-[Explore the source](https://github.com/swb2019/gsoc-decision-ops) · [Read the training methodology](https://github.com/swb2019/gsoc-decision-ops/blob/main/docs/TRAINING.md)
+### [Hourglass Command](https://swb2019.github.io/shannon-brown-career/work/hourglass-command/)
 
-### [Professional portfolio ↗](https://swb2019.github.io/shannon-brown-career/)
+**Independent portfolio project · Synthetic training scenarios**
 
-The story behind the work: security leadership, cross-border investment experience, education, and credentials. An editorial web experience with original 3D artwork and interactive motion.
+A working simulation of first-hour security decisions: assess reports, recommend a posture, document treatment and ownership, and inspect the after-action record. Directed by me and developed through AI-assisted design and engineering. The case study explains three product decisions, their tradeoffs, and the limits of the simulation.
 
-[Explore the source](https://github.com/swb2019/shannon-brown-career) · [View résumé](https://swb2019.github.io/shannon-brown-career/resume.pdf)
+[Case study](https://swb2019.github.io/shannon-brown-career/work/hourglass-command/) · [Try the simulation](https://swb2019.github.io/gsoc-decision-ops/) · [Source and tests](https://github.com/swb2019/gsoc-decision-ops) · [Training methodology](https://github.com/swb2019/gsoc-decision-ops/blob/main/docs/TRAINING.md)
 
-## Focus
+### [A decision brief before certainty](https://swb2019.github.io/shannon-brown-career/practice/decision-brief/)
 
-Operational governance · Risk assessment · Contract and supplier review · Incident coordination · Executive briefings · Continuous improvement
+**Synthetic example**
 
-**Credentials:** Harvard Cybersecurity Graduate Certificate · CompTIA CySA+ ce · CompTIA Security+ ce
+A fictional monitoring outage, three options, a named risk owner, and explicit conditions for changing the recommendation. A compact example of how I structure a consequential choice.
+
+## Perspective
+
+**Public-source analysis** with assumptions, alternatives, and change indicators:
+
+- [When a security-system outage becomes a business-risk decision](https://swb2019.github.io/shannon-brown-career/notes/security-system-outage/)
+- [What an executive brief must say before the picture is complete](https://swb2019.github.io/shannon-brown-career/notes/briefing-before-certainty/)
 
 ---
 
-**Let’s connect.** [LinkedIn](https://www.linkedin.com/in/shannon-w-brown) · [Email](mailto:shannon@i-mail.se) · Whitinsville, Massachusetts
+For conversations about security operations, risk, and decision-making, let’s compare notes.
+
+[Email](mailto:shannon@i-mail.se) · [LinkedIn](https://www.linkedin.com/in/shannon-w-brown) · Whitinsville, Massachusetts
